@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b03016a-43fa-4d5b-9438-00a71ba3a305" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heranca.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/heranca/Aluno.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/heranca/Funcionario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/heranca/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/heranca/Professor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/heranca/main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Aluno.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Pessoa.java" afterDir="false" />
@@ -221,7 +231,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541026849327" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541026852463" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -261,16 +271,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541022951628</updated>
-      <workItem from="1541022956393" duration="3528000" />
+      <workItem from="1541022956393" duration="3889000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3528000" />
+    <option name="totallyTimeSpent" value="3889000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="50" width="1346" height="698" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -282,11 +291,11 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32922536" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21478873" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21478873" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
