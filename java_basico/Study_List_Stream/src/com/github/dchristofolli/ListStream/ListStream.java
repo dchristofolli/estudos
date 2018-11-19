@@ -11,10 +11,23 @@ public class ListStream {
     static Stream<Pessoa> pessoaStream = listaPessoas.stream();
 
     public static void main(String[] args) {
-        long contaPessoas = contaPessoas();
-        System.out.println(contaPessoas);
+        //long contaPessoas = contaPessoas();
+        //Integer somaIdade = somaIdade();
+        //Integer maiorIdade = maiorIdade();
+        Integer menorIdade = menorIdade();
 
+    }
 
+    private static Integer menorIdade() {
+        return pessoaStream.mapToInt(p-> p.getIdade()).min().getAsInt();
+    }
+
+    private static Integer maiorIdade() {
+        return pessoaStream.mapToInt(p-> p.getIdade()).max().getAsInt();
+    }
+
+    private static Integer somaIdade() {
+        return pessoaStream.filter(p-> p.getNome().startsWith("D")).mapToInt(p-> p.getIdade()).sum();
     }
 
     private static long contaPessoas() {
