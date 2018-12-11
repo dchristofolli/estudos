@@ -1,7 +1,9 @@
 package com.github.dchristofolli.ListStream;
 
 import java.util.Arrays;
+import java.util.IntSummaryStatistics;
 import java.util.List;
+import java.util.function.Supplier;
 import java.util.stream.Stream;
 
 public class ListStream {
@@ -11,11 +13,20 @@ public class ListStream {
     static Stream<Pessoa> pessoaStream = listaPessoas.stream();
 
     public static void main(String[] args) {
+
         //long contaPessoas = contaPessoas();
         //Integer somaIdade = somaIdade();
         //Integer maiorIdade = maiorIdade();
-        Integer menorIdade = menorIdade();
+        //Integer menorIdade = menorIdade();
 
+        IntSummaryStatistics intSummStat  = pessoaStream.filter(p -> p.getNome().startsWith("D"))
+                .mapToInt(p -> p.getIdade()).collect(StringBuilder:: new,
+                        (response, element)-> response.append(" ").append(element),
+                        (response1, response2) -> response1.append;
+
+        System.out.println(intSummStat.getSum());
+        System.out.println(intSummStat.getMax());
+        System.out.println(intSummStat.getMin());
     }
 
     private static Integer menorIdade() {

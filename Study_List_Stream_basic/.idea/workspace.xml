@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6370e32f-3db7-4688-ad14-f0e362df0d4b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/daniel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/dchristofolli/Study_List_Stream/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/github/dchristofolli/Study_List_Stream/List_Stream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bancodedados/create_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../bancodedados/create_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bancodedados/delete.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../bancodedados/delete.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bancodedados/insert.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../bancodedados/insert.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bancodedados/select.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../bancodedados/select.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bancodedados/update.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../bancodedados/update.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/EstudoHerança/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/EstudoHerança/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/EstudoHerança/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/EstudoHerança/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/EstudoHerança/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/EstudoHerança/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/EstudoHerança/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/EstudoHerança/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/EstudoHerança/EstudoHerança.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/EstudoHerança/EstudoHerança.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/EstudoHerança/src/Enfermeira.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/EstudoHerança/src/Enfermeira.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/EstudoHerança/src/Medico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/EstudoHerança/src/Medico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/EstudoHerança/src/Paciente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/EstudoHerança/src/Paciente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/EstudoHerança/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/EstudoHerança/src/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Herança/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Herança/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/.idea/dictionaries/daniel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/.idea/dictionaries/daniel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/Hospital.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/Hospital.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/src/Enfermeiros.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/src/Enfermeiros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/src/Funcionarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/src/Funcionarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/src/Medicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/src/Medicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/src/Pacientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/src/Pacientes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/src/Pessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/src/Pessoas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Interfaces/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Interfaces/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Interfaces/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Interfaces/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Interfaces/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Interfaces/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Interfaces/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Interfaces/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Interfaces/Interfaces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Interfaces/Interfaces.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Interfaces/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Interfaces/src/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Interfaces/src/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Interfaces/src/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Interfaces/src/Galo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Interfaces/src/Galo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Interfaces/src/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Interfaces/src/Gato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/estudo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/estudo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/estudo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/estudo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/estudo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/estudo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/estudo/estudo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/estudo/estudo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/EstudoHerança/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/EstudoHerança/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Heranca/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Heranca/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Heranca/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Heranca/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Heranca/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Heranca/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Heranca/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Heranca/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Heranca/EstudoHerança.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Heranca/EstudoHerança.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Heranca/src/Enfermeira.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Heranca/src/Enfermeira.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Heranca/src/Medico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Heranca/src/Medico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Heranca/src/Paciente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Heranca/src/Paciente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Heranca/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Heranca/src/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/.idea/dictionaries/daniel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/.idea/dictionaries/daniel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/Hospital.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/Hospital.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/src/Enfermeiros.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/src/Enfermeiros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/src/Funcionarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/src/Funcionarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/src/Medicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/src/Medicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/src/Pacientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/src/Pacientes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/src/Pessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/src/Pessoas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Interfaces/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Interfaces/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Interfaces/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Interfaces/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Interfaces/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Interfaces/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Interfaces/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Interfaces/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Interfaces/Interfaces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Interfaces/Interfaces.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Interfaces/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Interfaces/src/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Interfaces/src/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Interfaces/src/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Interfaces/src/Galo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Interfaces/src/Galo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Interfaces/src/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Interfaces/src/Gato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/Study_List_Stream.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/Study_List_Stream.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/out/production/Study_List_Stream/com/github/dchristofolli/ListStream/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/out/production/Study_List_Stream/com/github/dchristofolli/ListStream/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/out/production/Study_List_Stream/com/github/dchristofolli/ListStream/ListStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/out/production/Study_List_Stream/com/github/dchristofolli/ListStream/ListStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/src/com/github/dchristofolli/ListStream/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/src/com/github/dchristofolli/ListStream/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/src/com/github/dchristofolli/ListStream/ListStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/src/com/github/dchristofolli/ListStream/ListStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/src/com/github/dchristofolli/ListStream/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/src/com/github/dchristofolli/ListStream/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/estudo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/estudo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/estudo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/estudo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/estudo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/estudo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/estudo/estudo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/estudo/estudo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/out/production/heranca/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/out/production/heranca/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/out/production/heranca/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/out/production/heranca/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/out/production/heranca/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/src/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/src/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/src/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/src/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/lista_encadeada_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/lista_encadeada_final.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/listas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/variaveis.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/variaveis.py" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1155366">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1086" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1086" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/github/dchristofolli/Study_List_Stream/List_Stream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/github/dchristofolli/Study_List_Stream/.gitignore" />
+        <option value="$PROJECT_DIR$/src/com/github/dchristofolli/Study_List_Stream/List_Stream.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="683" />
+    <option name="y" value="27" />
+    <option name="width" value="663" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Study_List_Stream_basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study_List_Stream_basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study_List_Stream_basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study_List_Stream_basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study_List_Stream_basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study_List_Stream_basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Study_List_Stream" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543162162468" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="List_Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.dchristofolli.Study_List_Stream.List_Stream" />
+      <module name="Study_List_Stream_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.dchristofolli.Study_List_Stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.List_Stream" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="4" Folder0="$USER_HOME$/Documentos/IntelliJ.Portuguese.Brazil.Dictionary" Folder1="$USER_HOME$/Documentos/IntelliJ.Portuguese.Brazil.Dictionary" Folder2="$USER_HOME$/Documentos/IntelliJ.Portuguese.Brazil.Dictionary" Folder3="$USER_HOME$/Documentos/IntelliJ.Portuguese.Brazil.Dictionary" CustomDictionaries="4" CustomDictionary0="$USER_HOME$/Documentos/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil.dic" CustomDictionary1="$USER_HOME$/Documentos/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_technical-terms.dic" CustomDictionary2="$USER_HOME$/Documentos/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="$USER_HOME$/Documentos/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_without-accents.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6370e32f-3db7-4688-ad14-f0e362df0d4b" name="Default Changelist" comment="" />
+      <created>1542830088628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542830088628</updated>
+      <workItem from="1542830092404" duration="4340000" />
+      <workItem from="1542886737901" duration="773000" />
+      <workItem from="1542914423998" duration="1814000" />
+      <workItem from="1543013701479" duration="1821000" />
+      <workItem from="1543061447408" duration="7807000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16555000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25378788" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32952693" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/github/dchristofolli/Study_List_Stream/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="123" column="57" selection-start-line="123" selection-start-column="57" selection-end-line="123" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/dchristofolli/Study_List_Stream/List_Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

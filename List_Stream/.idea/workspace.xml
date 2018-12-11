@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adf640e9-e19f-4a89-b6d7-039219a9243a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Study_List_Stream_basic/.idea/dictionaries/daniel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Study_List_Stream_basic/src/com/github/dchristofolli/Study_List_Stream/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Study_List_Stream_basic/src/com/github/dchristofolli/Study_List_Stream/List_Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bancodedados/create_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../bancodedados/create_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bancodedados/delete.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../bancodedados/delete.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bancodedados/insert.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../bancodedados/insert.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bancodedados/select.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../bancodedados/select.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bancodedados/update.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../bancodedados/update.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/EstudoHerança/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/EstudoHerança/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/EstudoHerança/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/EstudoHerança/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/EstudoHerança/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/EstudoHerança/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/EstudoHerança/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/EstudoHerança/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/EstudoHerança/EstudoHerança.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/EstudoHerança/EstudoHerança.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/EstudoHerança/src/Enfermeira.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/EstudoHerança/src/Enfermeira.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/EstudoHerança/src/Medico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/EstudoHerança/src/Medico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/EstudoHerança/src/Paciente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/EstudoHerança/src/Paciente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/EstudoHerança/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/EstudoHerança/src/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Herança/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Herança/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/.idea/dictionaries/daniel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/.idea/dictionaries/daniel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/Hospital.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/Hospital.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/src/Enfermeiros.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/src/Enfermeiros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/src/Funcionarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/src/Funcionarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/src/Medicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/src/Medicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/src/Pacientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/src/Pacientes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Hospital/src/Pessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Hospital/src/Pessoas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Interfaces/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Interfaces/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Interfaces/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Interfaces/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Interfaces/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Interfaces/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Interfaces/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Interfaces/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Interfaces/Interfaces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Interfaces/Interfaces.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Interfaces/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Interfaces/src/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Interfaces/src/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Interfaces/src/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Interfaces/src/Galo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Interfaces/src/Galo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Interfaces/src/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Interfaces/src/Gato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/estudo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/estudo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/estudo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/estudo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/estudo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/estudo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/estudo/estudo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/estudo/estudo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/EstudoHerança/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/EstudoHerança/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Heranca/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Heranca/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Heranca/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Heranca/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Heranca/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Heranca/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Heranca/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Heranca/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Heranca/EstudoHerança.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Heranca/EstudoHerança.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Heranca/src/Enfermeira.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Heranca/src/Enfermeira.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Heranca/src/Medico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Heranca/src/Medico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Heranca/src/Paciente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Heranca/src/Paciente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Heranca/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Heranca/src/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/.idea/dictionaries/daniel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/.idea/dictionaries/daniel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/Hospital.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/Hospital.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/src/Enfermeiros.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/src/Enfermeiros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/src/Funcionarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/src/Funcionarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/src/Medicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/src/Medicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/src/Pacientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/src/Pacientes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Hospital/src/Pessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Hospital/src/Pessoas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Interfaces/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Interfaces/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Interfaces/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Interfaces/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Interfaces/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Interfaces/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Interfaces/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Interfaces/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Interfaces/Interfaces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Interfaces/Interfaces.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Interfaces/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Interfaces/src/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Interfaces/src/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Interfaces/src/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Interfaces/src/Galo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Interfaces/src/Galo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Interfaces/src/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Interfaces/src/Gato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/Study_List_Stream.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/Study_List_Stream.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/out/production/Study_List_Stream/com/github/dchristofolli/ListStream/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/out/production/Study_List_Stream/com/github/dchristofolli/ListStream/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/out/production/Study_List_Stream/com/github/dchristofolli/ListStream/ListStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/src/com/github/dchristofolli/ListStream/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/src/com/github/dchristofolli/ListStream/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/src/com/github/dchristofolli/ListStream/ListStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/src/com/github/dchristofolli/ListStream/ListStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/Study_List_Stream/src/com/github/dchristofolli/ListStream/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/Study_List_Stream/src/com/github/dchristofolli/ListStream/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/estudo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/estudo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/estudo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/estudo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/estudo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/estudo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/estudo/estudo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basico/estudo/estudo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/out/production/heranca/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/out/production/heranca/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/out/production/heranca/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/out/production/heranca/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/out/production/heranca/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/src/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/src/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/src/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/src/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basico/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/lista_encadeada_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/lista_encadeada_final.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/listas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/variaveis.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/variaveis.py" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/List_Stream.java" />
+        <option value="$PROJECT_DIR$/src/Pessoa.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="683" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544451409253" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documentos/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_without-accents.dic" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="List_Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List_Stream" />
+      <module name="List_Stream" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.List_Stream" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="4" Folder0="$USER_HOME$/Documentos/IntelliJ.Portuguese.Brazil.Dictionary" Folder1="$USER_HOME$/Documentos/IntelliJ.Portuguese.Brazil.Dictionary" Folder2="$USER_HOME$/Documentos/IntelliJ.Portuguese.Brazil.Dictionary" Folder3="$USER_HOME$/Documentos/IntelliJ.Portuguese.Brazil.Dictionary" CustomDictionaries="4" CustomDictionary0="$USER_HOME$/Documentos/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil.dic" CustomDictionary1="$USER_HOME$/Documentos/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_technical-terms.dic" CustomDictionary2="$USER_HOME$/Documentos/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="$USER_HOME$/Documentos/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_without-accents.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adf640e9-e19f-4a89-b6d7-039219a9243a" name="Default Changelist" comment="" />
+      <created>1544379188233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544379188233</updated>
+      <workItem from="1544379192292" duration="11894000" />
+      <workItem from="1544416638039" duration="339000" />
+      <workItem from="1544417020225" duration="1462000" />
+      <workItem from="1544447916591" duration="1424000" />
+      <workItem from="1544449377302" duration="340000" />
+      <workItem from="1544449756940" duration="856000" />
+      <workItem from="1544450707178" duration="759000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17074000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25681818" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39739415" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32899022" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32899022" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="13" weight="0.32899022" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="123" column="57" selection-start-line="123" selection-start-column="57" selection-end-line="123" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="54" column="34" lean-forward="true" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/List_Stream.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>List_Stream</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
