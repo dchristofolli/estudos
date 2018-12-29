@@ -122,3 +122,8 @@ hs_err_pid*
 .nfs*
 
 # End of https://www.gitignore.io/api/java,linux,intellij
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+Study_ListStream.iml
