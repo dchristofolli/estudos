@@ -1,0 +1,17 @@
+<idea-plugin>
+    <id>Grupo.Artefato</id>
+    <name>Teste</name>
+    <vendor email="danielchristofolli@gmail.com" url="www.google.com">Christofolli</vendor>
+
+    <description><![CDATA[Primeiro build Gradle em Java - Daniel Christofolli<br>]]></description>
+
+    <depends>com.intellij.modules.lang</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>
