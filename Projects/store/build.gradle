@@ -1,0 +1,22 @@
+plugins {
+    id 'java'
+    id "org.springframework.boot" version "1.5.10.RELEASE" apply false
+}
+
+group 'com.github.marcelocure.projects'
+version '1.0-SNAPSHOT'
+apply plugin: "org.springframework.boot"
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile("org.springframework.boot:spring-boot-starter-web")
+    compile("org.springframework.boot:spring-boot-starter-jdbc")
+    compile("org.postgresql:postgresql:42.2.2")
+    compile("com.fasterxml.jackson.core:jackson-databind")
+}
